@@ -3,9 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+<img src="../images/ForBo7.png" alt="ForBo7" width="250" align="right"/>
+I'm ForBo7: an approachable, adaptable, open-minded, curious individual who’s been to seventeen countries and lived in 
+three. I’m a science and technology geek, space nerd, and currently dabble in AI. 3D computer graphics is my hobby and 
+learning is my passion.
