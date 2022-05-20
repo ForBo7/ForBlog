@@ -2,7 +2,8 @@
 keywords: fastai
 description: "Awesome summary"
 title: "Title"
-sticky_rank: - toc: false
+sticky_rank: 
+toc: false
 branch: master
 badges: true
 hide_github_badge: false
@@ -10,10 +11,11 @@ hide_binder_badge: false
 hide_deepnote_badge: false
 hide_colab_badge: false
 comments: true
-categories: []
-image: - hide: true
+categories: 
+image:
+hide: true
 search_exclude: true
-nb_path: _notebooks/0000-00-00-jupyter-template.ipynb
+nb_path: _notebooks/2022-05-19-jupyter-template.ipynb
 layout: notebook
 ---
 
