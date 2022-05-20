@@ -7,6 +7,6 @@ toc: false
 comments: true
 categories: []
 image:
-hide: false
-search_exclude: false
+hide: true
+search_exclude: true
 ---
