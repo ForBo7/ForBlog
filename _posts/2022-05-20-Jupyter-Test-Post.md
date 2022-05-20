@@ -2,6 +2,7 @@
 keywords: fastai
 description: What an awesome summary!
 title: Hello World!
+comments: true
 nb_path: _notebooks/2022-05-20-Jupyter-Test-Post.ipynb
 layout: notebook
 ---
