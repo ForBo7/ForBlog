@@ -2,7 +2,17 @@
 keywords: fastai
 description: What an awesome summary!
 title: Hello World!
+sticky_rank: - toc: false
+branch: master
+badges: true
+hide_github_badge: false
+hide_binder_badge: false
+hide_deepnote_badge: false
+hide_colab_badge: false
 comments: true
+categories: - image:
+hide: True
+search_exclude: True
 nb_path: _notebooks/2022-05-20-Jupyter-Test-Post.ipynb
 layout: notebook
 ---
