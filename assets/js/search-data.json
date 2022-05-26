@@ -30,6 +30,28 @@
 
   
       ,"page1": {
+          "title": "Check out my Artstation!",
+          "content": "Check out my ArtStation where I upload my projects and works relating to 3D computer graphics. .",
+          "url": "https://forbo7.github.io/ForBlog/Artstation.html",
+          "relUrl": "/Artstation.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page2": {
+          "title": "Checkout my GitHub!",
+          "content": "Check out my GitHub where you can see various coding projects that I have dabbled including game development and my ventures into AI. .",
+          "url": "https://forbo7.github.io/ForBlog/GitHub.html",
+          "relUrl": "/GitHub.html",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page3": {
           "title": "About Me",
           "content": "I’m ForBo7: an approachable, adaptable, open-minded, curious individual who’s been to seventeen countries and lived in three. I’m a science and technology geek, space nerd, and currently dabble in AI. 3D computer graphics is my hobby and learning is my passion. .",
           "url": "https://forbo7.github.io/ForBlog/about/",
@@ -61,7 +83,7 @@
   
 
   
-      ,"page10": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://forbo7.github.io/ForBlog/robots.txt",
