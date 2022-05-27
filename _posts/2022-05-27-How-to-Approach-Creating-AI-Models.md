@@ -6,7 +6,7 @@ sticky_rank:
 toc: true
 comments: true
 categories: [model deployment, drivetrain approach]
-image: images/2022-05-27/pexels-markus-spiske239419.jpg
+image: images/2022-05-27/pexels-markus-spiske-239419.jpg
 hide: false
 search_exclude: false
 ---
