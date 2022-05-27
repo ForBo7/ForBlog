@@ -11,7 +11,9 @@ hide: false
 search_exclude: false
 ---
 
-## Nǐ shì rén?
+<img src="{{ site.baseurl }}/images/2022-05-26/thumbnail.jpg" width=400>
+
+## Nǐ shì rén ma?
 
 And so I have completed Lesson 2 of Living Language's Essential Chinese: 
 People and Family. In this lesson, I learned about how certain people are 
