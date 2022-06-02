@@ -1,7 +1,7 @@
 ---
 keywords: fastai
 description: "Can you bare reading through this bear classifier?"
-title: "Bear Classifier"
+title: "📌 Bear Classifier"
 sticky_rank: 1
 toc: true
 branch: master
