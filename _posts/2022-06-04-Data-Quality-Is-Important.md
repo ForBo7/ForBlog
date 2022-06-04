@@ -5,7 +5,7 @@ layout: post
 sticky_rank: 1
 toc: false
 comments: true
-categories: []
+categories: [data, data cleaning, analyzing models]
 image: images/2022-06-04/thumbnail.jpg
 hide: false
 search_exclude: false
