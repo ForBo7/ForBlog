@@ -1,5 +1,5 @@
 ---
-title: "Check out my Artstation!"
+title: "Artstation"
 description: "Three Dimensional Computer Graphics"
 layout: post
 sticky_rank:

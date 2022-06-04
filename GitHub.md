@@ -1,5 +1,5 @@
 ---
-title: "Checkout my GitHub!"
+title: "GitHub"
 description: "Supply rocks with electricity do all the hard stuff."
 layout: post
 sticky_rank:
