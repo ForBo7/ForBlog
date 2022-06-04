@@ -2,7 +2,7 @@
 keywords: fastai
 description: "Can you bare reading through this bear classifier?"
 title: "📌 Bear Classifier"
-sticky_rank: 1
+sticky_rank: 2
 toc: true
 branch: master
 badges: true
