@@ -85,7 +85,7 @@
 
   
       ,"page1": {
-          "title": "Check out my Artstation!",
+          "title": "Artstation",
           "content": "Check out my ArtStation where I upload my projects and works relating to 3D computer graphics. .",
           "url": "https://forbo7.github.io/ForBlog/Artstation.html",
           "relUrl": "/Artstation.html",
@@ -96,7 +96,7 @@
 
   
       ,"page2": {
-          "title": "Checkout my GitHub!",
+          "title": "GitHub",
           "content": "Check out my GitHub where you can see various coding projects that I have dabbled including game development and my ventures into AI. .",
           "url": "https://forbo7.github.io/ForBlog/GitHub.html",
           "relUrl": "/GitHub.html",
