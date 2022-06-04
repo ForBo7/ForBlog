@@ -60,10 +60,10 @@ bears**.
 {% include info.html text="There is a difference between comparing grizzly 
 bears to black bears and black bears to grizzly bears.
 <br><br>
-Comparing grizzly bears to black bears means 'How many grizzly bears were 
+Comparing grizzly bears to black bears means, 'How many grizzly bears were 
 misclassified as black bears?'
 <br><br>
-Comparing black bears to grizzly bears means 'How many black bears were 
+Comparing black bears to grizzly bears means, 'How many black bears were 
 misclassified as grizzly bears?'" %}
 
 ## Case 2: Ultra Concise
