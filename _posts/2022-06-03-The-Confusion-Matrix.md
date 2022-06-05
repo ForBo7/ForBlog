@@ -74,7 +74,7 @@ Highlight the black bear column.
 
 <img src="{{ site.baseurl }}/images/2022-06-03/confusion_matrix_1_4.png">
 
-Highlight the grizzly bear column.
+Highlight the grizzly bear row.
 
 <img src="{{ site.baseurl }}/images/2022-06-03/confusion_matrix_1_5.png">
 
