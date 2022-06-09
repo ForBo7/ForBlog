@@ -5,7 +5,7 @@ layout: post
 sticky_rank:
 toc: true
 comments: true
-categories: []
+categories: [mandarin, hanzì]
 image: images/2022-06-09/thumbnail.jpg
 hide: false
 search_exclude: false
