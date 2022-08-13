@@ -1,5 +1,5 @@
 ---
-title: "Quick Note: Switching-from-Chinese-to-Japanese"
+title: "Quick Note: Switching from Chinese to Japanese"
 description: "拼 → あ"
 layout: post
 sticky_rank:
