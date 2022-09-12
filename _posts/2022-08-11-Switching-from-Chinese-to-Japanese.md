@@ -4,11 +4,11 @@ description: "拼 → あ"
 layout: post
 sticky_rank:
 toc: false
-comments: true
+comments: false
 categories: []
 image: images/2022-08-11/thumbnail.jpg
-hide: false
-search_exclude: false
+hide: true
+search_exclude: true
 ---
 
 <img src="{{ site.baseurl }}/images/2022-08-11/thumbnail.jpg" width="300">

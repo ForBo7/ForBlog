@@ -4,11 +4,11 @@ description: "You sure you have one?"
 layout: post
 sticky_rank:
 toc: true
-comments: true
-categories: [mandarin, hanzì]
+comments: false
+categories: []
 image: images/2022-06-09/thumbnail.jpg
-hide: false
-search_exclude: false
+hide: true
+search_exclude: true
 ---
 
 <img src="{{ site.baseurl }}/images/2022-06-09/thumbnail.jpg" width="300">

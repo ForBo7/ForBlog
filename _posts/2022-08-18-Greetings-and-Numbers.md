@@ -4,11 +4,11 @@ description: "Why was ろく afraid of なな? Because なな はち きゅう."
 layout: post
 sticky_rank:
 toc: true
-comments: true
-categories: [japanese, greetings, numbers]
+comments: false
+categories: []
 image: 
-hide: false
-search_exclude: false
+hide: true
+search_exclude: true
 ---
 
 [//]: # (TODO: Replace image)
